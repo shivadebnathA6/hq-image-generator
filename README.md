@@ -18,7 +18,7 @@ We believe in the power of open-source and community-driven development. While t
 - **New Features**: Have an idea for a new feature? We’d love to hear it! Contribute your ideas or code to enhance the tool’s capabilities.
 - **Improved UI/UX**: Help improve the user experience by suggesting or implementing design enhancements.
 - **Documentation**: Contribute by improving the documentation, making it more beginner-friendly, or adding examples.
-- **Translation**: Help translate the tool into different languages to make it accessible to a global audience.
+
 
 By contributing, you’ll help us create a better tool and gain recognition in the open-source community. 
 
