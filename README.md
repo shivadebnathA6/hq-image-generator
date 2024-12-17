@@ -28,6 +28,7 @@ By contributing, you’ll help us create a better tool and gain recognition in t
 
 - **Web Browser**: The Free Image Generator works in all modern browsers (Chrome, Firefox, Safari, Edge).
 - **Internet Connection**: An active internet connection is required to access the tool.
+- **VS Code or any Code Editor**: for editing and updating the code.
 
 ### Installation
 
